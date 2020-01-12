@@ -226,7 +226,7 @@ function errorPassword() {
 	                    <div class="col-md-12">
 	                        <div class="card">
 	                            <div class="card-header" data-background-color="purple">
-	                                <h4 class="title">Material Dashboard Heading</h4>
+	                                <h4 class="title">vijindas</h4>
 	                                <p class="category">Created using Roboto Font Family</p>
 	                            </div>
 	                            <div class="card-content">
